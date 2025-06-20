@@ -1,11 +1,11 @@
-📸 **AI-Based Attendance System**
+📸 **AI-Based Attendance System** <br>
 A smart and efficient attendance system using Face Recognition technology powered by Python and OpenCV. This project automatically identifies and marks attendance based on facial features, eliminating manual errors and reducing time consumption in traditional roll-call methods.
 
 **🚀 Features**
 
-👤 Detects and recognizes registered faces in real-time.
-📷 Captures live video feed from webcam for recognition.
-🗂️ Maintains attendance records automatically.
+👤 Detects and recognizes registered faces in real-time. <br>
+📷 Captures live video feed from webcam for recognition. <br>
+🗂️ Maintains attendance records automatically. <br>
 📝 Displays student details like ID, name, and date/time.
 📦 Easy to manage database using simple folder-based images.
 🔄 Option to register new students by simply uploading images.
