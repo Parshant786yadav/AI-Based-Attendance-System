@@ -50,6 +50,11 @@ Verify that image dimensions are reasonable (e.g., 500x500 px). <br>
 Confirm you have installed all dependencies. <br>
 If you get Unsupported image type error, preprocess your images using Pillow. <br>
 
+**Demo Picture** <br>
+
+![Demo Pic SS](https://github.com/user-attachments/assets/7f62c5d8-fff2-4b78-b150-7c558712ca90)
+
+
 
 ### 📱 **Connect:**
 
