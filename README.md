@@ -51,15 +51,26 @@ Confirm you have installed all dependencies. <br>
 If you get Unsupported image type error, preprocess your images using Pillow. <br>
 
 
-**🙌 Contributors** <br>
+### 📱 **Connect:**
 
+* [GitHub](https://github.com/parshant786yadav)
+* [LinkedIn](https://www.linkedin.com/in/parshant786)
+* [Instagram](https://www.instagram.com/its_yduvnshi)
+* [WhatsApp](http://wa.me/+918826448907)
 
-PARSHANT — Developer & UI Designer <br>
-
+---
 
 **📜 License** <br>
 
 
 This project is licensed under the MIT License. <br>
+
+---
+
+Thank you for visiting!
+
+Made with 💻 and ☕ by **Parshant Yadav**
+
+
 
 
